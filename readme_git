@@ -16,7 +16,7 @@ GITHUB
 -  git remote add origin https://github.com/jessicamedalha/Testando.git
 - git remote -v (LISTA REPOSITORIOS)
 - git push origin master (envio arquivo to github)
-- 
+- git pull origin master (pucha arquivo)
 
 
 
