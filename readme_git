@@ -22,3 +22,6 @@ GITHUB
 
 CLONAR 
 - git clone https://github.com/jessicamedalha/Testando.git
+- git add nomedoarquivo
+- git commit -m "adiciona o readme"
+- git push --mirror https://github.com/jessicamedalha/Testando.git
